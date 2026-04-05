@@ -8,7 +8,7 @@
 
 ## 1.1 Basic Image Processing Pipeline
 
-### 1.1a RAW Image Conversion
+### RAW Image Conversion
 
 **Q: What are the black, white, and scale values extracted from the RAW file?**
 
@@ -19,3 +19,13 @@
 | R Scale   | 2.293742 |
 | G Scale   | 1.000000 |
 | B Scale   | 1.368654 |
+
+### Python Initials
+
+**Q: How many bits per pixel does the image have? What is its width and height?**
+
+| Property        | Value       |
+|-----------------|-------------|
+| Bits per pixel  | 16          |
+| Width           | 6020 px     |
+| Height          | 4016 px     |
